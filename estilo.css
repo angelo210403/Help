@@ -1,0 +1,29 @@
+div{
+
+ background-image: url(cas.png);
+ background-repeat: no-repeat;
+ background-position: left top ;
+ background-size: 1510px;
+
+width: 1521px;
+height: 700px;
+
+
+}
+body{
+    background-color: black;
+    border: solid 5px sandybrown;
+    width: 1521px;
+    height: 1500px;
+    
+}
+nav{
+    background-color: black;
+
+    
+}
+dir{
+    background-color: rgb(175, 122, 74);
+    background-position: center top;
+    
+}
